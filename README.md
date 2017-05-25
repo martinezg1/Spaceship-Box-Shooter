@@ -1,5 +1,6 @@
 # Spaceship-Box-Shooter
 A simple space shooter developed using C programming for the Altera DE0-CV microcontroller connected with a PS/2 keyboard.
+This game uses the Altera Monitor Program.
 
 Game Developed By:
 Maddie Duggin
